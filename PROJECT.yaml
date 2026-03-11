@@ -1,16 +1,18 @@
-id: 1cffb1ac-7e54-4eb8-a764-4b26fbc5a5c9
 name: toneshift
-description: "Rewrite messages into 12 different tones"
+project_scope: main
+project_type: standalone
+description: Rewrite messages into 12 different tones
 tier: prototype
 lane: side-projects
 priority: low
-category: text
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/toneshift
+repo: "https://github.com/mxn2020/toneshift"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, tone, writing, style, communication, text]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: 1cffb1ac-7e54-4eb8-a764-4b26fbc5a5c9
