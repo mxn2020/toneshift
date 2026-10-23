@@ -45,7 +45,7 @@
   },
   "description": "Rewrite messages into 12 different tones",
   "author": "Mehdi Nabhani <mehdi@geenius.app>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mxn2020/toneshift.git"
